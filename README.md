@@ -31,8 +31,8 @@ Building intelligent systems at the intersection of Machine Learning, NLP, and A
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **ML / AI**
 
@@ -46,7 +46,7 @@ Building intelligent systems at the intersection of Machine Learning, NLP, and A
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_ASR-412991?style=flat-square&logo=openai&logoColor=white)
+![Moondream](https://img.shields.io/badge/Moondream_VLM-4A154B?style=flat-square&logoColor=white)
 
 **Tools & Platforms**
 
@@ -108,16 +108,6 @@ Predicting 30-day hospital readmission risk using discharge-time clinical data w
 </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rishabh5825&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh5825&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
-
-</div>
 
 ---
 
